@@ -1,3 +1,8 @@
+ Build Spotify Clone with React JS and Styled Components using Spotify API and Context API;
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
