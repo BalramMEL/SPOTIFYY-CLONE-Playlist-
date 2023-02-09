@@ -1,4 +1,4 @@
- Build Spotify Clone with React JS and Styled Components using Spotify API and Context API;
+ ### Build Spotify Clone with React JS and Styled Components using Spotify API and Context API;
 
 
 
